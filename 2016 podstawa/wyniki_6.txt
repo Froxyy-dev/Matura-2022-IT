@@ -1,0 +1,14 @@
+6.1
+236
+
+6.2
+Najwieksza liczba pierwsza: 29881
+Najmniejsza liczba pierwsza: 73
+
+6.3
+Liczba par blizniaczych: 4
+Pary liczb:
+1999 i 1997
+1721 i 1723
+1481 i 1483
+809 i 811
