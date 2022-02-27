@@ -1,0 +1,11 @@
+6.
+a)
+447
+
+b)
+324
+
+c)
+Ilosc liczb: 49
+Najwieksza: 1133357
+Najmniejsza: 24

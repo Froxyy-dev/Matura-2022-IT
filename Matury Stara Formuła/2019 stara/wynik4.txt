@@ -1,0 +1,9 @@
+4.1
+5
+
+4.2
+14 39
+
+4.3
+Maksymalny bok: 12
+Dzialki: 28 32 45 

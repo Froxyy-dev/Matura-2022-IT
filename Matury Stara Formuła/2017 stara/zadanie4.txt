@@ -1,0 +1,11 @@
+4.1
+Liczba dwucyklicznych: 18
+Napis: 00100101100011100010010110001110
+Jego dlugosc: 32
+
+4.2
+Liczba niepoprawnych napisow: 359
+Najmniejsza dlugosc niepoprawnego napisu: 4
+
+4.3
+1101011001100101, 54885

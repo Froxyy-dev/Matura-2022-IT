@@ -1,0 +1,8 @@
+4.1
+422
+4.2
+Podzielne przez 2: 500
+Podzielne przez 8: 123
+4.3
+Indeks najmniejszej: 859
+Indeks najwiekszej: 925
