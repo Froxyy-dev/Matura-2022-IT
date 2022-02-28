@@ -1,0 +1,28 @@
+4.
+a)
+504
+
+b)
+110
+
+c)
+Same zera: 32
+Same jedynki: 50
+
+d)
+Liczba napisow o:
+dlugosci 2, ilosc: 43
+dlugosci 3, ilosc: 38
+dlugosci 4, ilosc: 37
+dlugosci 5, ilosc: 57
+dlugosci 6, ilosc: 53
+dlugosci 7, ilosc: 68
+dlugosci 8, ilosc: 78
+dlugosci 9, ilosc: 103
+dlugosci 10, ilosc: 83
+dlugosci 11, ilosc: 90
+dlugosci 12, ilosc: 86
+dlugosci 13, ilosc: 81
+dlugosci 14, ilosc: 68
+dlugosci 15, ilosc: 59
+dlugosci 16, ilosc: 56
