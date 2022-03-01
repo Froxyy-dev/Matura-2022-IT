@@ -1,0 +1,13 @@
+4.
+a)
+495
+
+b)
+Suma cyfr najwieksza: 187869866
+Suma cyfr najmniejsza: 10010
+
+c)
+2389
+23567
+123456789
+3468
