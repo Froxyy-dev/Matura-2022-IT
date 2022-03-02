@@ -1,0 +1,3 @@
+Liczba znakow:
+parzysta: 105
+nieparzysta: 95
