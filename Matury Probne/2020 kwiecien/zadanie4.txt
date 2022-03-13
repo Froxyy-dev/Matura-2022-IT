@@ -1,0 +1,12 @@
+4.1
+Wartosc najwiekszej luki: 1056392131
+Wartosc najmniejszej luki: 1
+
+4.2
+Dlugosc: 17, Wartosc poczatkowa: 193134524, Wartosc koncowa: 223545714
+
+4.3
+Krotnosc najczestszej luki: 31
+Wartosci najczestszych luk:
+11
+149
