@@ -1,0 +1,10 @@
+5.1
+11
+
+5.2
+Dlugosc najdluzszego skoku: 601 , wynik nr: 176
+Dlugosc najkrotszego skoku: 401 , wynik nr: 17
+
+5.3
+Dlugosc: 6
+O ile centymetrow: 158
