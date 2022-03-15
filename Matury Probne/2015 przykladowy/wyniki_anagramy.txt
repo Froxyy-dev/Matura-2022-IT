@@ -1,0 +1,6 @@
+4.
+a)
+Ilosc wierszy: 258
+
+b)
+Maksymalna ilosc liczb: 11
