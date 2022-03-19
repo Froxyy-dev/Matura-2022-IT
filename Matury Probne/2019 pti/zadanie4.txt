@@ -1,0 +1,11 @@
+4.1
+Ilosc graczy zdyskwalifikowanych: 942
+
+4.2
+Ilosc punktow: 265
+Numer gracza: 812
+
+4.3
+Najwieksza liczba ruchow W lub E: 15
+Gracze: 
+774 
