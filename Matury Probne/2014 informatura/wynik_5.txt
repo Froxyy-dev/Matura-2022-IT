@@ -1,0 +1,12 @@
+5.1
+2.71828
+
+5.2
+Najmniej sie rozni dla: 11
+
+5.3.
+10^3 przy n=6
+
+10^6 przy n=9
+
+10^9 przy n=0
